@@ -10,6 +10,7 @@ Windows 7, 8.1 or 10.
 32-bit or 64-bit.
 Some 10 GB hard disk available space.
 Any RAM as recommended for Microsoft Office.
+
 So far, I've used Intel i3 with 8GB, Intel i5 with 4GB, Intel i7 with 6GB with windows home, 64-bits.
 
 Steps to setup a development environment to run the binance.com example provided in this project, hopefully allowing you to go from there.
